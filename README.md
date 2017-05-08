@@ -37,7 +37,7 @@ Other components might depend on different library versions, and crash.
 
 ### How to make?
 * cd sources and make, download all source tar files
-* cd .. and make, will untar each tar file and make, then copy libs and headers into <staging> directory
+* cd .. and make, will untar each tar file and make, then copy libs and headers into staging directory
 
 ### After all, a distro is not only packages stick together. It's packages stick together harmonically.
 
