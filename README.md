@@ -36,8 +36,8 @@ For example you want to write a PAM module, or you want to load system provided 
 Other components might depend on different library versions, and crash.
 
 ### How to make?
-* cd sources and make, download all source tar files
-* cd .. and make, will untar each tar file and make, then copy libs and headers into staging directory
+* run init as root user
+* run make as non-root user
 
 ### After all, a distro is not only packages stick together. It's packages stick together harmonically.
 
