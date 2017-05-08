@@ -36,7 +36,7 @@ For example you want to write a PAM module, or you want to load system provided 
 Other components might depend on different library versions, and crash.
 
 ### How to make?
-* run init as root user
+* run _init.sh_ as root user
 * run make as non-root user
 
 ### After all, a distro is not only packages stick together. It's packages stick together harmonically.
